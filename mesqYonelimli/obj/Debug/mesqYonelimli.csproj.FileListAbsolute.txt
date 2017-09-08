@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\mesqYonelimli\mesqYonelimli\bin\Debug\mesqYonelimli.exe.config
+c:\users\user\documents\visual studio 2017\Projects\mesqYonelimli\mesqYonelimli\bin\Debug\mesqYonelimli.exe
+c:\users\user\documents\visual studio 2017\Projects\mesqYonelimli\mesqYonelimli\bin\Debug\mesqYonelimli.pdb
+c:\users\user\documents\visual studio 2017\Projects\mesqYonelimli\mesqYonelimli\obj\Debug\mesqYonelimli.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\mesqYonelimli\mesqYonelimli\obj\Debug\mesqYonelimli.exe
+c:\users\user\documents\visual studio 2017\Projects\mesqYonelimli\mesqYonelimli\obj\Debug\mesqYonelimli.pdb
